@@ -10,7 +10,7 @@ Visual Studio Code is a source code editor developed by Microsoft for Windows, L
 
 ## Installation
 
-The following linux command will install gcc compiler on on Ubuntu 18.04 Bionic Beaver. Open up terminal and enter: 
+How to install Visual Studio Code on Ubuntu 20.04 via the SNAP package
 
 ```bash
 sudo snap install --classic code
