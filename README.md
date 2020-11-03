@@ -1,2 +1,46 @@
-# ED
-Este repositório possui práticas da disciplina de Estrutura de Dados do semestre 2019.1. Contendo diversas abordagens de Estruturas de Dados, como FILA, PILHA, LISTAS e Árvore Binária de Busca.
+# Estrutura de Dados
+
+This repository has practices from the Data Structure discipline of the 2019.1 semester. Containing several approaches to Data Structures, such as FILE, STACK, LISTS and Binary Search Tree.
+
+# C and Visual Studio Code
+
+C is a compiled programming language of general purpose, structured, imperative, procedural, standardized by the International Organization for Standardization, created in 1972 by Dennis Ritchie at AT&T Bell Labs for the development of the Unix operating system. 
+
+Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, built-in Git control, syntax highlighting, smart code completion, snippets and code refactoring.
+
+## Installation
+
+The following linux command will install gcc compiler on on Ubuntu 18.04 Bionic Beaver. Open up terminal and enter: 
+
+```bash
+sudo snap install --classic code
+```
+
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install software-properties-common apt-transport-https wget
+```
+
+```bash
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add --
+```
+
+```bash
+sudo add-apt-repository “deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main”
+```
+
+```bash
+sudo apt install code
+```
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
